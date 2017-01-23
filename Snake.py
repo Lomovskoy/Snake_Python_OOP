@@ -1,6 +1,5 @@
 from tkinter import *
 import random
-#aeraeae
 WIDTH = 800# ширина экрана
 HEIGHT = 600# высота экрана
 SEG_SIZE = 20# Размер сегмента змейки
